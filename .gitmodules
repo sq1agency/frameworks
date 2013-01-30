@@ -1,0 +1,54 @@
+[submodule "960-Grid-System"]
+	path = 960-Grid-System
+	url = git://github.com/nathansmith/960-Grid-System.git
+[submodule "compass-kube"]
+	path = compass-kube
+	url = git://github.com/yckart/compass-kube.git
+[submodule "Golden-Grid-System"]
+	path = Golden-Grid-System
+	url = git://github.com/jonikorpi/Golden-Grid-System.git
+[submodule "Frameless"]
+	path = Frameless
+	url = git://github.com/jonikorpi/Frameless.git
+[submodule "susy"]
+	path = susy
+	url = git://github.com/ericam/susy.git
+[submodule "ResponsiveGridSystem"]
+	path = ResponsiveGridSystem
+	url = git://github.com/grahammiller/ResponsiveGridSystem.git
+[submodule "responsive-gs"]
+	path = responsive-gs
+	url = git://github.com/StudioSnapsize/responsive-gs.git
+[submodule "1140-grid"]
+	path = 1140-grid
+	url = git://github.com/andytlr/cssgrid.git
+[submodule "foundation"]
+	path = foundation
+	url = git://github.com/zurb/foundation.git
+[submodule "bootstrap"]
+	path = bootstrap
+	url = git://github.com/twitter/bootstrap.git
+[submodule "base"]
+	path = base
+	url = git://github.com/matthewhartman/base.git
+[submodule "inuit.css"]
+	path = inuit.css
+	url = git://github.com/csswizardry/inuit.css.git
+[submodule "Gridiculous"]
+	path = Gridiculous
+	url = git://github.com/cbavota/Gridiculous.git
+[submodule "Skeleton"]
+	path = Skeleton
+	url = git://github.com/dhgamache/Skeleton.git
+[submodule "Gumby"]
+	path = Gumby
+	url = git://github.com/dsurgeons/Gumby.git
+[submodule "ingrid"]
+	path = ingrid
+	url = git://github.com/robertpiira/ingrid.git
+[submodule "Toast"]
+	path = Toast
+	url = git://github.com/daneden/Toast.git
+[submodule "html5-boilerplate"]
+	path = html5-boilerplate
+	url = git://github.com/h5bp/html5-boilerplate.git

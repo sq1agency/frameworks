@@ -44,7 +44,7 @@ To update all frameworks used in the project to the latest commit of all submodu
 
 [@twitter](https://github.com/twitter) - **[bootstrap](https://github.com/twitter/bootstrap)**
 
-[@yckart](https://github.com/yckart) & [@imperavi](https://twitter.com/imperavi) - **[compass-kube](https://github.com/yckart/compass-kube/)**
+[@yckart](https://github.com/yckart) and [@imperavi](https://twitter.com/imperavi) - **[compass-kube](https://github.com/yckart/compass-kube/)**
 
 [@zurb](https://github.com/zurb) - **[foundation](https://github.com/zurb/foundation)**
 
@@ -57,4 +57,6 @@ To update all frameworks used in the project to the latest commit of all submodu
 [@StudioSnapsize](https://github.com/StudioSnapsize) - **[responsive-gs](https://github.com/StudioSnapsize/responsive-gs)**
 
 [@ericam](https://github.com/ericam) - **[susy](https://github.com/ericam/susy)**
+
+[@components](https://github.com/components) - **[sass-twitter-bootstrap](https://github.com/components/sass-twitter-bootstrap)**, **[jquery](git://github.com/components/jquery.git)** and **[jqueryui](git://github.com/components/jqueryui.git)**
 

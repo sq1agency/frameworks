@@ -52,3 +52,12 @@
 [submodule "html5-boilerplate"]
 	path = html5-boilerplate
 	url = git://github.com/h5bp/html5-boilerplate.git
+[submodule "sass-twitter-bootstrap"]
+	path = sass-twitter-bootstrap
+	url = git://github.com/components/sass-twitter-bootstrap.git
+[submodule "lib/jquery"]
+	path = lib/jquery
+	url = git://github.com/components/jquery.git
+[submodule "lib/jquery-ui"]
+	path = lib/jquery-ui
+	url = git://github.com/components/jqueryui.git
